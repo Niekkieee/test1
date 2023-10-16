@@ -1,5 +1,2 @@
-local whitlist = {
-  13344893,
-}
+13344893, 8511384
 
-return whitlist
